@@ -45,7 +45,7 @@ namespace ConsoleApp1
                 Console.WriteLine(" [1] 25% full depo - 10 coin ");
                 Console.WriteLine(" [2] 50% full depo - 15 coin ");
                 Console.WriteLine(" [3] 100% full depo - 20 coin ");
-                Console.Write("Choice here: ");
+                Console.Write("Choice Here: ");
                 ConsoleKeyInfo key = Console.ReadKey();
                 if (key.Key == ConsoleKey.NumPad1)
                 {
